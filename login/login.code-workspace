@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Users/raks6/Downloads/majorr/PROJECT - Copy/bootstrap-icons-1.10.5"
+		},
+		{
+			"path": "../../../Users/raks6/Downloads/majorr/PROJECT - Copy/bootstrap-5.3.1-dist"
+		},
+		{
+			"path": "../../../Users/raks6/Downloads/majorr/PROJECT - Copy/js"
+		},
+		{
+			"path": "../../../Users/raks6/Downloads/majorr/PROJECT - Copy/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "login"
+	}
+}
